@@ -19,6 +19,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "AI Resume Analyzer",
   description: "ATS Resume Analyzer with Gemini AI",
+  icons: {
+    icon: "/ChatGPT Image Jun 16, 2026, 12_51_21 AM.png",
+  },
 };
 
 export default function RootLayout({
